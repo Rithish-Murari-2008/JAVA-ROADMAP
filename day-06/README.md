@@ -3,9 +3,6 @@
 ## Today's goal
 Packages, imports, public/private/protected/default access, static and final
 
-## Learning objectives
-By the end of this session, aim to explain the key ideas in your own words and write a small working example.
-
 ## Practice
 Create small MathUtils and StringUtils classes in a package. Practice imports and explain which members should be private.
 
@@ -16,11 +13,10 @@ Create small MathUtils and StringUtils classes in a package. Practice imports an
 - **What I want to revisit:**
 
 ## Completion checklist
-- [ ] Read or watch an explanation of today's concepts
+- [ ] Review the concepts
 - [ ] Write and run my own code
-- [ ] Test normal cases and at least one edge case
+- [ ] Test normal and edge cases
 - [ ] Commit my work to GitHub
 - [ ] Explain one thing I learned without reading notes
 
-## Folder guide
-Place Java source files in `src/` and optional terminal output or screenshots in `test-output/`. Keep credentials and private data out of the repository.
+Put source files in `src/` and optional output in `test-output/`. Never commit credentials or private data.
